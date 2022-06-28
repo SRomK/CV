@@ -1,0 +1,13 @@
+
+.profileImage{
+  height: auto;
+  width: 10rem;
+}
+
+.spacingTable{
+  border-spacing: 2rem;
+}
+
+.spacingTableSkills{
+  border-spacing: 1rem;
+}
